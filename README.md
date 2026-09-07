@@ -5,11 +5,11 @@ An AI-powered web-search workflow built with **n8n**, **DeepSeek**, **OpenRouter
 ## Workflow
 
 ```text
-Chat Message
-     ↓
-  AI Agent
-  ↙  ↓  ↘
-DeepSeek  Memory  Structured Output
+           Chat Message
+                 ↓
+             AI Agent
+          ↙     ↓       ↘
+   DeepSeek   Memory   Structured Output
                  ↓
              Search Query
                  ↓
@@ -83,7 +83,8 @@ No API keys are included.
 
 ## Screenshot
 
-![DeepSeek Web Search AI Agent workflow](screenshots/workflow.png)
+<img width="816" height="592" alt="WhatsApp Image 2026-09-06 at 16 35 52" src="https://github.com/user-attachments/assets/7591ca62-754b-48be-9eeb-7263939c251a" />
+
 
 ## Possible Improvements
 
